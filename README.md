@@ -1,8 +1,3 @@
-Here’s a sample **README.md** file based on the UML diagram you provided:
-
----
-
-```markdown
 # UML Use Case Diagram for Ride-Hailing Application
 
 ## System Description
@@ -69,11 +64,14 @@ This UML Use Case Diagram represents a Ride-Hailing Application that connects pa
 
 ---
 
-### Notes
-- This diagram provides a clear representation of the interactions between the actors (Passenger, Driver, Admin) and the system.
-- The visual diagram can be accessed in the repository's `/diagram` folder as `image.png`.
-```
+## UML Diagram
+
+You can view the UML Use Case Diagram below or access the full-resolution file in the `/diagram` folder as `image.png`.
+
+![UML Use Case Diagram](diagram/image.png)
 
 ---
 
-Let me know if you need additional details!
+## Notes
+- This diagram provides a clear representation of the interactions between the actors (Passenger, Driver, Admin) and the system.
+- Ensure all actors' responsibilities and interactions are updated if the system evolves.
