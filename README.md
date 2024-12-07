@@ -66,7 +66,7 @@ This UML Use Case Diagram represents a Ride-Hailing Application that connects pa
 
 ## UML Diagram
 
-You can view the UML Use Case Diagram below or access the full-resolution file in the `/diagram` folder as `image.png`.
+You can view the UML Use Case Diagram below or access the full-resolution file in the `/diagram` folder as `diagram.png`.
 
 ![UML Use Case Diagram](diagram/diagram.png)
 
